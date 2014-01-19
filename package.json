@@ -1,0 +1,20 @@
+{
+  "name": "co-mocha",
+  "version": "0.0.1",
+  "description": "Add harmony generator support to mocha via co",
+  "main": "index.js",
+  "keywords": [
+    "co",
+    "mocha",
+    "harmony",
+    "generators"
+  ],
+  "author": "Stephen Belanger <admin@stephenbelanger.com>",
+  "license": "MIT",
+  "dependencies": {
+    "co": "~3.0.2"
+  },
+  "peerDependencies": {
+    "mocha": "1.x"
+  }
+}
