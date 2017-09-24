@@ -12,7 +12,7 @@
   "author": "Stephen Belanger <admin@stephenbelanger.com>",
   "license": "MIT",
   "dependencies": {
-    "co": "~3.0.2"
+    "co": "~4.6.0"
   },
   "peerDependencies": {
     "mocha": "1.x"
