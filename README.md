@@ -1,5 +1,7 @@
 # co-mocha
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Qard/co-mocha.svg)](https://greenkeeper.io/)
+
 Add harmony generator support to mocha via co.
 
 ## Install
